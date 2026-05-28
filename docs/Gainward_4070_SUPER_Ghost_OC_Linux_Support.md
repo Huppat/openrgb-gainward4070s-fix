@@ -1,7 +1,7 @@
 # OpenRGB Gainward RTX 4070 SUPER Ghost OC - Erkenntnisprotokoll
 
 ## Datum
-$(date +%Y-%m-%d)
+28.05.2026
 
 ## Problemstellung
 Unter Linux fehlte die Unterstützung für die Gainward GeForce RTX 4070 SUPER Ghost OC in OpenRGB. Die Karte wurde nicht erkannt, da keine spezifischen Detektoren für das I2C-Interface (Subsystem-ID) und die NVIDIA Illumination (NvAPI) implementiert waren.
